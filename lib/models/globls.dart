@@ -1,0 +1,77 @@
+class Globals{
+   static bool isios = false;
+}
+List<Map<String, dynamic>> Contacts = [
+  {
+    "name": "Akash",
+    "des": "typing..",
+    "contact": "6353363645",
+    "image": "assets/images/akash.jpeg",
+    "time": "12:08 Pm",
+    "status":"5 minutes ago",
+  },
+  {
+    "name": "Kishan",
+    "des": "Kya cho?",
+    "contact": "9265771251",
+    "image": "assets/images/Kishan.jpeg",
+    "time": "11:07 Am",
+    "status": "20 minutes ago",
+  },
+  {
+    "name": "Parth",
+    "des": "Hii",
+    "contact": "9313433309",
+    "image": "assets/images/parth.jpeg",
+    "time": "10:55 Am",
+    "status": "23 minutes ago",
+  },
+  {
+    "name": "Zeel",
+    "des": "Program Mokl To",
+    "contact": "7621839795",
+    "image": "assets/images/zeel.jpeg",
+    "time": "10:13 Am",
+    "status": "30 minutes ago",
+  },
+  {
+    "name": "Harshil",
+    "des": "Kem Cho Maja Ma?",
+    "contact": "9328949821",
+    "image": "assets/images/harshil.jpeg",
+    "time": "12:50 Pm",
+    "status": "47 minutes ago",
+  },
+  {
+    "name": "Jarso",
+    "des": "Kyare Avano Cho Class A?",
+    "contact": "7041757525",
+    "image": "assets/images/jarso.jpeg",
+    "time": "2:20 Pm",
+    "status": "55 minutes ago",
+  },
+  {
+    "name": "Tushar",
+    "des": "Kale Farm A Avu che?",
+    "contact": "7202861282",
+    "image": "assets/images/tushar.jpeg",
+    "time": "3:40",
+    "status": "Today,12:24",
+  },
+  {
+    "name": "Nikhil",
+    "des": "Kya cho Bhura",
+    "contact": "9106896765",
+    "image": "assets/images/nikhil.jpeg",
+    "time": "5:55 Pm",
+    "status": "Today,11:40",
+  },
+  {
+    "name": "Vinay",
+    "des": "Paisa Padya Che?",
+    "contact": "8376428749",
+    "image": "assets/images/vinay.jpeg",
+    "time": "7:18 Pm",
+    "status": "Today,10:12",
+  },
+];
